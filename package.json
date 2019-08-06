@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ecalvi/lib-test/issues"
   },
-  "homepage": "https://github.com/ecalvi/lib-test#readme"
+  "homepage": "https://github.com/ecalvi/lib-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
