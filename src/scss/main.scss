@@ -1,4 +1,6 @@
+@import "../variables/variables.json";
+
 body {
-  background-color: red;
+  background-color: $backgroundColor !important;
   color: green;
 }
